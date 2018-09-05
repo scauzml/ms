@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Spring MVC" type="spring-mvc">
+    <CLASSES>
+      <root url="file://D:/MyBatisAndSpring-master/mybatisAndSpring/lib" />
+      <root url="file://D:/apache-tomcat-9.0.11/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/MyBatisAndSpring-master/mybatisAndSpring/lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/apache-tomcat-9.0.11/lib" recursive="false" />
+    <jarDirectory url="file://D:/MyBatisAndSpring-master/mybatisAndSpring/lib" recursive="false" />
+    <jarDirectory url="file://D:/MyBatisAndSpring-master/mybatisAndSpring/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
